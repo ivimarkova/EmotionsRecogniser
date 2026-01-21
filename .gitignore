@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# Screenshots
+screenshot_*.jpg
+emotion_screenshot_*.jpg
+
+# Backup files
+*copy.py
+*.txt
+
+# OS files
+.DS_Store
+Thumbs.db
